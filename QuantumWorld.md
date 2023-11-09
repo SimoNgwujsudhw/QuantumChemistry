@@ -20,3 +20,5 @@ $$4\pi\epsilon_{0}\rightarrow1$$
 $$\hat{H}=\sum_{\alpha}-\frac{\hbar^2}{2m}\nabla^2$$
 分子哈密顿量具体表达形式（五项）：
 $$\hat{H}=\sum_{\alpha}-\frac{\hbar^2}{2M_{\alpha}}\nabla^2_\alpha+\sum_i-\frac{\hbar^2}{2m_e}\nabla^2_e+\sum_{\alpha,i}\frac{-Z_\alpha e^2}{4\pi\epsilon_0|r_i-R_\alpha|}+\sum_{\alpha<\beta}\frac{Z_\alpha Z_\beta e^2}{4\pi\epsilon_0|R_\alpha-R_\beta|}+\sum_{i < j}\frac{e^2}{4\pi\epsilon_0|r_i-r_j|}$$
+分子哈密顿量在原子单位制下的表达：
+$$\hat{H}=\sum_\alpha-\frac{\nabla^2_\alpha}{2M_\alpha}+\sum_i-\frac{1}{2}\nabla^2_e+\sum_{\alpha,i}\frac{-Z_\alpha}{|r_i-R_\alpha|}+\sum_{\alpha<\beta}\frac{Z_\alpha Z_\beta}{|R_\alpha-R_\beta|}+\sum_{i < j}\frac{1}{|r_i-r_j|}$$
