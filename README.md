@@ -17,6 +17,3 @@ $$1a.u.E=1Hartree=27.2eV$$
 $$1a.u.v=\frac{1a.u.x}{1a.u.t}=2185950m/s$$
 $$1\hbar\rightarrow1$$
 $$4\pi\epsilon_{0}\rightarrow1$$
-分子哈密顿量具体表达形式（五项）：
-$$\hat{H}=\sum_{\alpha}-\frac{\hbar^{2}}{2M_{\alpha}}\nabla^{2}_{\alpha}+\sum_{i}-\frac{\hbar^{2}}{2m_{e}}\nabla^{2}+\sum_{\alpha,i}\frac{-Z_{\alpha}e^2}{4\pi\epsilon_0|r_i-R_\alpha|}+\sum_{\alpha<\beta}\frac{Z_\alpha Z_\beta e^2}{4\pi\epsilon_0|R_\alpha-R_\beta|}+\sum_{i<j}\frac{e^2}{4\pi\epsilon_0|r_i-r_j|}
- 
