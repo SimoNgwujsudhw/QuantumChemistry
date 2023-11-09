@@ -1,4 +1,4 @@
-# QuantumChemistry
+# QuantumWorld
 波函数：用于描述体系的状态
 
 玻恩诠释（波函数归一化条件）：
