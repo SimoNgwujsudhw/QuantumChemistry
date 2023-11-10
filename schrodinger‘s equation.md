@@ -14,7 +14,7 @@ $$\psi(x) = \frac{mV_0\psi(0)}{\pi\hbar^2}\int_{-\infty}^{\infty}\frac{e^{i\omeg
 若
 $E<0$，则解得波函数为束缚态波函数，令
 $g(\omega)=\frac{e^{i\omega x}}{\omega^2-\frac{2mE}{\hbar^2}}$,利用留数定理可得：
-$$I=\int_{-\infty}^{\infty}\frac{e^{i\omega x}}{\omega^2-\frac{2mE}{\hbar^2}}d\omega=2\pi i\sum_{上半平面}Res\ g(\omega_{i})$$
+$$I=\int_{-\infty}^{\infty}\frac{e^{i\omega x}}{\omega^2-\frac{2mE}{\hbar^2}}d\omega=2\pi i\sum_{Im(\omega_i>0)}Res\ g(\omega_{i})$$
 $g(\omega)$
 在上半平面存在一阶极点
 $\omega=\frac{\sqrt{-2mE}}{\hbar}i$,求得该点留数为：
