@@ -24,6 +24,5 @@ $$\psi(x)=\frac{mV_0\psi(0)}{\hbar\sqrt{-2mE}}e^{-\frac{\sqrt{-2mE}}{\hbar}x}$$
 根据波函数在
 $x=0$的连续条件，求得
 $E=-\frac{mV_{0}^2}{2\hbar^2}$，结合波函数的归一化条件以及束缚态波函数宇称的要求，解得束缚态波函数：
-$$
-\psi(x)=\frac{\sqrt{mV_0}}{\hbar}e^\frac{-2\sqrt{-2mE}}{\hbar}x\ \ \ \ \ \ \ \ \ \ \ x>0\\
-\psi(x)=\frac{\sqrt{mV_0}}{\hbar}e^\frac{-2\sqrt{2mE}}{\hbar}x\ \ \ \ \ \ \ \ \ \ \ \ \ x<0
+$$\psi(x)=\frac{\sqrt{mV_0}}{\hbar}e^\frac{-2\sqrt{-2mE}}{\hbar}x\ \ \ \ \ \ \ \ \ \ \ x>0$$
+$$\psi(x)=\frac{\sqrt{mV_0}}{\hbar}e^\frac{-2\sqrt{2mE}}{\hbar}x\ \ \ \ \ \ \ \ \ \ \ \ \ x<0$$
